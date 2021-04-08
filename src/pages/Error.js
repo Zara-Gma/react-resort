@@ -1,7 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default class Error extends Component {
-  render() {
-    return <div></div>;
-  }
+export default function Error() {
+  return (
+    <div>
+      <h1>Hello from error page</h1>
+    </div>
+  );
 }
