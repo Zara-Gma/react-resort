@@ -71,3 +71,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://www.youtube.com/watch?v=LXJOvkVYQqA
 4:20
+
+
+<img width="1440" alt="landing_1" src="https://user-images.githubusercontent.com/43872052/114957726-80a99a80-9e16-11eb-91e1-19ac567b0056.png">
+<img width="1440" alt="landing_1" src="https://user-images.githubusercontent.com/43872052/114957731-81dac780-9e16-11eb-8b87-21f2312feb32.png">
+<img width="1440" alt="landing_1" src="https://user-images.githubusercontent.com/43872052/114957734-82735e00-9e16-11eb-930e-5d738d93f2a5.png">
+<img width="1440" alt="landing_1" src="https://user-images.githubusercontent.com/43872052/114957737-830bf480-9e16-11eb-86cf-df12f7c14c27.png">
